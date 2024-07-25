@@ -44,3 +44,6 @@ The analysis was conducted on a dataset containing school and student informatio
     - Charter schools outperformed district schools across all key metrics. Charter schools had higher average scores in both math and reading, as well as higher passing rates for both subjects. This indicates that charter schools might be employing more effective educational strategies or benefiting from other factors that positively influence student achievement.
 
 These insights can guide future decisions on resource allocation, school management practices, and policy-making to improve student outcomes across the district.
+
+Widchy Joachim
+Data Analyst
